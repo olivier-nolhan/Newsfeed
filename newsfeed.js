@@ -14,7 +14,7 @@ Module.register("newsfeed",{
 		feeds: [
 			{
 				title: "Google Actu",
-				url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+				url: "https://news.google.com/news/rss/headlines/section/topic/NATION.fr_fr/France?ned=fr&hl=fr&gl=FR",
 				encoding: "UTF-8" //ISO-8859-1
 			}
 		],
